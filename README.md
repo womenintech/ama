@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-A repository to ask [@womenintech](/../../) anything.
+A repository to ask [@womenintechme](/../../) anything.
 
 
 ### Ask a question
@@ -10,7 +10,7 @@ Asking a question is as easy as
 project.
 
 We'll try to answer it as soon as we can get to it. Once its answered the
-issue will be closed but don't worry- if you have any further
+issue will be closed but don't worry - if you have any further
 questions just respond in the thread and we'll get back to you soon. Feel free to
 ask a question on any old issue too, even if you didn't create it.
 
@@ -30,8 +30,7 @@ Twitter.
 
 ### Email
 
-info@womenintech.me
-
+[info@womenintech.me](mailto:info@womenintech.me)
 
 ### Forking
 
