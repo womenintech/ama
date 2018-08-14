@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-A repository to ask [@womenintech](/../../) anything.
+A repository to ask [@womenintechme](/../../) anything.
 
 
 ### Ask a question
